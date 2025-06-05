@@ -1,2 +1,18 @@
-# To_do_list
-A simple terminal-based To-Do List app in Python that lets you add, view, mark, and delete tasks with data saved in a local JSON file. Lightweight and easy to use.
+# 📝 Simple To-Do List (Terminal App)
+
+This is a simple terminal-based To-Do List app written in Python. It lets you:
+
+- Add tasks
+- View your list
+- Mark tasks as done
+- Delete tasks
+- Save your progress in a local file (`tasks.json`)
+
+## 🚀 How to Run
+
+1. Make sure you have Python installed.
+2. Download the `todo.py` file.
+3. Open your terminal and run:
+
+```bash
+python todo.py
